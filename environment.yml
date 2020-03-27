@@ -1,0 +1,7 @@
+name: MASH_Phylogeny
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - mash
+  - fastme
